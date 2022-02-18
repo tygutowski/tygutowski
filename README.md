@@ -1,3 +1,5 @@
-Hello, I'm Ty Gutowski. I'm a software engineering student at Florida Institute of Technology.
+hi im tygutowski. im studying software engineering at florida tech.
 
-Contact me at tygutowski@gmail.com, or at ttyyyyy#1425 on Discord.
+i do gamedev in my freetime.
+
+contact me at tygutowski@gmail.com, or at ttyyyyy#1425 on discord.
