@@ -5,6 +5,7 @@ i do gamedev in my freetime.
 contact me at tygutowski@gmail.com, or at ttyyyyy#1425 on discord.
 
 https://img.shields.io/twitter/follow/JunkoRobot?style=social
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
