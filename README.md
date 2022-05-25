@@ -1,10 +1,8 @@
-hi im tygutowski. im studying software engineering at florida tech.
+Hi, I'm tygutowski, a software engineer at Florida Tech.
+Contact me at tygutowski@gmail.com, or at ttyyyyy#1425 on Discord.
 
-i do gamedev in my freetime.
-
-contact me at tygutowski@gmail.com, or at ttyyyyy#1425 on discord.
-
-Follow my game development on twitter: https://twitter.com/JunkoRobot
+I do game development in my freetime
+Follow the development of my game Junko on twitter: https://twitter.com/JunkoRobot
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
