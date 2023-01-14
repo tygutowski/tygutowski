@@ -1,4 +1,5 @@
 im tygutowski, a software engineer at florida tech
+
 contact me at tygutowski@gmail.com, or at ttyyyyy#1425 on discord
 
 i do gamedev for fun. follow the development of my game, junko, on twitter: https://twitter.com/JunkoRobot
