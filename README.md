@@ -1,3 +1,3 @@
-im tygutowski, a software engineer at florida tech
+im tygutowski, a software engineer with a passion for game design.
 
 check out [my website!](https://tygutowski.com/)
